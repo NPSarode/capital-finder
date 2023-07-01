@@ -1,0 +1,36 @@
+.head{
+  padding: 20px;
+  text-align:start;
+  text-justify: center;
+}
+
+.myInput{
+  text-align: center;
+  background-color: gray;
+}
+
+.foot{
+  text-align: center;
+  font-size: x-small;
+  font-weight:100;
+  width: 100%;
+  height: 40px;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+}
+
+.back{
+  background-image: url("back.jpg");
+  background-repeat: no-repeat;
+  background-attachment:;
+  background-size: cover;
+  background-position: right bottom;
+
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.bt{
+  color: black;
+  border-color: black;
+}
