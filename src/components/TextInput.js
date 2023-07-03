@@ -41,7 +41,6 @@ export default function TextInput() {
         <div className="mb-3 my-5 mx-4">
           <input
             type="text"
-            id="myBox"
             className="myInput"
             onChange={changeText}
             value={text1}
