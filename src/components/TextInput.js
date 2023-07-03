@@ -48,14 +48,14 @@ export default function TextInput() {
           />
           <button
             type="button"
-            className="btn btn-outline-primary mx-1 bt"
+            className="btn btn-outline-light mx-1 bt"
             onClick={show}
           >
             Find
           </button>
           <button
             type="button"
-            className="btn btn-outline-primary bt"
+            className="btn btn-outline-light bt"
             onClick={clear}
           >
             Clear

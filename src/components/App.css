@@ -19,7 +19,6 @@
   position: fixed;
   bottom: 0;
   left: 0;
-  color: black;
 }
 
 .back{
@@ -29,7 +28,7 @@
   background-size: cover;
   background-position: right bottom;
   color: white;
-  height: 90vh;
+  height: 100vh;
 
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
