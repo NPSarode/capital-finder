@@ -45,6 +45,10 @@ export default function TextInput() {
             onChange={changeText}
             value={text1}
           />
+         
+        </div>
+
+        <div className="mb-3 my-2 mx-4">
           <button
             type="button"
             className="btn btn-outline-light mx-1 bt"
@@ -60,7 +64,11 @@ export default function TextInput() {
             Clear
           </button>
         </div>
-        <div className="mb-3  mx-4 py-5"><h2>{text2}</h2></div>
+
+        <div className="mb-3  mx-4 py-5">
+          <h2>{text2}</h2>
+        </div>
+
       </div>
     </div>
   );
