@@ -16,7 +16,7 @@ function App() {
       <div className="col-md-12">
         <TextInput></TextInput>
       </div>
-      <div className="col-md-12">
+      <div className="col-md-1">
         <Foot title="Nikhil Sarode"></Foot>
       </div>
     </div>
